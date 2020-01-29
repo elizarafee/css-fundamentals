@@ -1,0 +1,27 @@
+body {
+    background-color: violet;
+}
+
+h1 {
+    color: aqua;
+}
+
+.heading {
+    color: blue;
+}
+
+.subheading {
+    color: brown;
+}
+
+p.subheading {
+    color: yellow;
+}
+
+#sidebar {
+    color: violet;
+}
+
+div p span {
+    color: teal;
+}
