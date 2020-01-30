@@ -50,23 +50,25 @@ body {
     height: 200px;
     width: 200px;
     margin-top: 6em;
+    opacity: 1;
 }
 
 
 .box2 {
-    background-color: darkslateblue;
+    background-color: darkviolet;
     height: 200px;
     width: 200px;
     padding: 20px;
+    opacity: .7;
 }
 
 
 .box3 {
-    background-color: darkslategray;
+    background-color: darkviolet;
     color: red;
     height: 200px;
     width: 200px;
     padding: 20px;
     border: 10px ridge blue;
-    opacity: .7;
+    opacity: .4;
 }
