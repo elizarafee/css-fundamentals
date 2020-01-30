@@ -1,6 +1,4 @@
-body {
-    background-color: violet;
-}
+
 
 h1 {
     color: aqua;
@@ -24,4 +22,25 @@ p.subheading {
 
 div p span {
     color: teal;
+}
+
+p.units {
+    font-size: 16px;
+    font-variant: small-caps;
+    text-indent: 2em;
+    word-spacing: 1em;
+    line-height: 1.5;
+}
+
+
+p.units1 {
+    color: brown;
+    font-size: 1em;
+    text-transform: lowercase;
+    text-align: center;
+    letter-spacing: 1em;
+}
+
+body {
+    background-color: darksalmon;
 }
