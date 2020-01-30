@@ -49,7 +49,7 @@ body {
     background-color: darkviolet;
     height: 200px;
     width: 200px;
-    margin-top: 6em;
+    margin-top: 2em;
     opacity: 1;
 }
 
@@ -65,10 +65,44 @@ body {
 
 .box3 {
     background-color: darkviolet;
-    color: red;
+    color: black;
     height: 200px;
     width: 200px;
     padding: 20px;
     border: 10px ridge blue;
     opacity: .4;
+}
+
+
+.box4 {
+    position: relative;
+    left: 300px;
+    top: 70px;
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    margin-bottom: 5px;
+}
+
+
+.box5 {
+    margin-top: 5px;
+    position: absolute;
+    left: 600px;
+    top: 2450px;
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+}
+
+
+.box6 {
+    clear: both;
+    background-color: blue;
+    color: black;
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
 }
